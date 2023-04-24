@@ -33,3 +33,5 @@ To train the model run:
 python train.py
 ``` 
 All the plots and model will be saved in the ```results``` directory.
+
+Major credit: [This Notebook](https://juliusruseckas.github.io/ml/vq-vae.html)
